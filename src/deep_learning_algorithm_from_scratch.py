@@ -1,3 +1,4 @@
+# This file has code to train deep learning model from scratch. A lot of this code is motivated from coursera's deep learning specialization course.
 import pandas as pd
 import numpy as np
 from typing import Dict, Tuple, List
