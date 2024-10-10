@@ -21,3 +21,9 @@ Additionally, this also includes code to develop machine learning algorithms bui
 - Logistic Regression
 
 **kaggle_predicting_housing_prices.ipynb** Performing EDA on the `housing_prices` dataset, developing and testing various models using an OOPS based approach and finding the best performance.
+
+### 3. Deep Learning Model
+This section includes implementation of deep learning model from scratch on a sample digits dataset. 
+The idea here is to showcase how forward and backward propagation works, and how to train a model from scratch.
+
+Note: To look for .py scripts directly, and not notebooks, go to src/ folder.
