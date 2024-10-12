@@ -21,9 +21,15 @@ Additionally, this also includes code to develop machine learning algorithms bui
 - Logistic Regression
 
 **kaggle_predicting_housing_prices.ipynb** Performing EDA on the `housing_prices` dataset, developing and testing various models using an OOPS based approach and finding the best performance.
+The idea here is to showcase how regressor algorithms can be implemented in a classes and objects OOPS format.
 
 ### 3. Deep Learning Model
-This section includes implementation of deep learning model from scratch on a sample digits dataset. 
+This section includes implementation of several deep learning models: 
+
+*deep_learning_from_scratch.ipynb* Implementing deep learning model on digits dataset from scratch. 
 The idea here is to showcase how forward and backward propagation works, and how to train a model from scratch.
+*kaggle_digit_recognizer.ipynb* Implemented tensorflow deep learning mode to improve the val/test accuracy for the digits dataset, and submitted those results in kaggle.
+Check out my current leaderboard position in the [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/leaderboard?search=rishikesh+dole).
+
 
 Note: To look for .py scripts directly, and not notebooks, go to src/ folder.
